@@ -1,8 +1,6 @@
 # Reduced-Run-Time-and-Memory-Complexity-of-GP
 
-# Python Demo: Reduced-Run-Time-and-Memory-Complexity-of-GP
-
-This Python demo provides an implementation of the "Reduced Run-Time and Memory Complexity of GP" method
+This Python code provides an implementation of the "Reduced Run-Time and Memory Complexity of GP" method
 
 ## Table of Contents
 
